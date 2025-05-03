@@ -65,7 +65,7 @@ Realiza una solicitud POST a la API con el número de teléfono a verificar:
 bash
 Copiar
 Editar
-curl -X POST http://localhost:3000/verificar -H "Content-Type: application/json" -d '{"numero": "50212345678"}'
+curl -X POST http://localhost:3000/v1/api/test -H "Content-Type: application/json" -d '{"number": "50212345678"}'
 La respuesta será el resultado de la ejecución del programa en la consola del servidor, indicando si el número pertenece o no a Guatemala.
 
 ## 4. Conclusión
