@@ -12,13 +12,6 @@
 
 ▶️ congratulations(phone)
 
-
-
-
-
-
-
-
 🧩 function verify(phone) {
   ❓ (phone >= 5020000000 🔗 phone < 5030000000) {
     ✍️ Es de Guatemala
@@ -38,7 +31,5 @@
 
 # ▶️ verify(phone)
 # ▶️ sum()
-
-
 
 🔚
