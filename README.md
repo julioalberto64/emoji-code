@@ -50,23 +50,25 @@ Asegúrate de tener Node.js instalado en tu sistema.
 
 Instala las dependencias del proyecto:
 
-bash
-Copiar
-Editar
+
 npm install
 Ejecuta el servidor que proporciona la API para procesar las solicitudes:
 
-bash
-Copiar
-Editar
+
 node server.js
 Realiza una solicitud POST a la API con el número de teléfono a verificar:
 
-bash
-Copiar
-Editar
+Request:
 curl -X POST http://localhost:3000/v1/api/test -H "Content-Type: application/json" -d '{"number": "50212345678"}'
 La respuesta será el resultado de la ejecución del programa en la consola del servidor, indicando si el número pertenece o no a Guatemala.
+
+Response:
+{
+    "result": [
+        "Es de Guatemala"
+    ]
+}
+
 
 ## 4. Conclusión
 Este lenguaje basado en emojis es una forma divertida de aprender los conceptos básicos de la programación y explorar nuevas formas de pensar sobre el código. Con solo un conjunto de emojis, puedes crear programas sencillos y comprensibles. ¡Diviértete creando con emojis!
