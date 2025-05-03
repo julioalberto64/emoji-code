@@ -77,7 +77,7 @@ Este lenguaje basado en emojis es una forma divertida de aprender los conceptos 
 #### Email: me@juliomorales.dev
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT.
+Este proyecto está bajo la Licencia GPL-2.0 license.
 
 ## 5. Ejemplo de Programa
 
