@@ -88,7 +88,7 @@ Este proyecto está bajo la Licencia GPL-2.0 license.
 
 ## 5. Ejemplo de Programa
 
-Aquí te mostramos un ejemplo básico de cómo usar el lenguaje de programación Emoji:
+Aquí te mostramos un ejemplo básico de cómo usar el lenguaje de programación Emoji (main.emoji):
 
 ```plaintext
 🧠
