@@ -1,0 +1,44 @@
+🧠
+🍺 phone = {number}
+🧩 function congratulations(phone) {
+    🍺 a = 1
+    🍺 b = 5
+    ➕ c = a b
+    ✍️ Call me for some beers I was thinking about:
+    ✍️ c
+    ✍️ beers, This is my phone number
+    ✍️ phone
+}
+
+▶️ congratulations(phone)
+
+
+
+
+
+
+
+
+🧩 function verify(phone) {
+  ❓ (phone >= 5020000000 🔗 phone < 5030000000) {
+    ✍️ Es de Guatemala
+  } else ️{
+    ✍️ No es de Guatemala
+  }
+}
+
+🧩 function sum() {
+    🍺 a = 10
+    🍺 b = 5
+    ➕ c = a b
+
+    ✍️ c
+}
+
+
+# ▶️ verify(phone)
+# ▶️ sum()
+
+
+
+🔚
