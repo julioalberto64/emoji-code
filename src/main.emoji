@@ -22,7 +22,7 @@
 🧩 function verify(phone) {
   ❓ (phone >= 5020000000 🔗 phone < 5030000000) {
     ✍️ Es de Guatemala
-  } else ️{
+  } ↩️ ️{
     ✍️ No es de Guatemala
   }
 }
