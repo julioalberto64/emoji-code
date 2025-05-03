@@ -58,11 +58,16 @@ Ejecuta el servidor que proporciona la API para procesar las solicitudes:
 node server.js
 Realiza una solicitud POST a la API con el número de teléfono a verificar:
 
+
 Request:
+
 curl -X POST http://localhost:3000/v1/api/test -H "Content-Type: application/json" -d '{"number": "50212345678"}'
+
 La respuesta será el resultado de la ejecución del programa en la consola del servidor, indicando si el número pertenece o no a Guatemala.
 
+
 Response:
+
 {
     "result": [
         "Es de Guatemala"
